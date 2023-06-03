@@ -6,7 +6,7 @@ this repo is created for mohat to practice different concepts of JS so that his 
 ## Array
 
 ## Loops
-- if
+- if condition
 - while
 - for
 
