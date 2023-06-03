@@ -8,7 +8,7 @@ let person = {
 
 console.log(person.lastName); // dot notation
 console.log(person['lastName']); //array notation
-person.firstName='coolMohat'//chaning the property
+person.firstName='coolMohat'//chainng the property
 console.log(person.firstName);
 person.gender='male'//add new property
 console.log(person);//visible on print
