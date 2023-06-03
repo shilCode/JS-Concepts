@@ -4,6 +4,10 @@ this repo is created for mohat to practice different concepts of JS so that his 
 ## Syntax
 
 ## Array
+- filter
+- reduce
+- map
+- sorting array
 
 ## Loops
 - if condition
