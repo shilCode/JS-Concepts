@@ -2,7 +2,10 @@
 let person = {
     firstName:'mohat',
     lastName:'shil',
-    age:20
+    age:20,
+    fullName:function(){
+        console.log(this.firstName+this.lastName);
+    }
 
 }
 

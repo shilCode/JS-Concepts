@@ -17,7 +17,8 @@ this repo is created for mohat to practice different concepts of JS so that his 
 - for
 
 ## Objects
-- 
+- printing all the component in the object using for loop
 
-## DOM
+## class
+- 
 
