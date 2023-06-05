@@ -1,3 +1,5 @@
+//basic of class which is used quite a lot while testing
+
 class Person{
     age = 25;
 
@@ -25,3 +27,6 @@ let person = new Person('mohat','shil')
 
 // console.log(person.location);   
 console.log(person.fullName())
+
+
+module.exports=Person;

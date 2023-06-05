@@ -20,5 +20,7 @@ this repo is created for mohat to practice different concepts of JS so that his 
 - printing all the component in the object using for loop
 
 ## class
-- 
+- use of constructor
+
+## inheritence
 
